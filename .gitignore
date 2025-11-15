@@ -1,5 +1,7 @@
 # IntelliJ IDEA
 .idea/
+.allure/
+
 *.iml
 
 # Maven
